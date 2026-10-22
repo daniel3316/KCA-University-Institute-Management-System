@@ -1,0 +1,19 @@
+
+# Compiled C++ programs
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE and editor files
+.vscode/
+.devcontainer/
+
+# Assignment documents and backup archives
+*.docx
+*.pdf
+*.zip
+
+# Temporary files
+*.tmp
+*.bak

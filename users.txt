@@ -1,0 +1,4 @@
+Trainee,10269116,Daniel Deng Mading,danieldeng2001@gmail.com,25/08891,KCAU@2025,89
+Trainer,36912053,Joseph Lobekio Ekai,0768591401,1056,Computer Science,5
+Trainee,10269116,Daniel Deng Mading,danieldeng2001@gmail.com,25/08891,RTM-2026,89.5
+Trainer,36912053,Joseph Lobekio Ekai,j.ekai@kcau.ac.ke,EMP-1056,Computer Science & Locomotive Automation,5
